@@ -1,0 +1,4 @@
+{
+  "port": 3000,
+  "mongoUri": "mongodb+srv://dianov:7D5g123b@cluster0-3wvud.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
