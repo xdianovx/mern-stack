@@ -1,0 +1,19 @@
+{
+  "name": "mern stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdianovx/mern-stack.git"
+  },
+  "author": "Evgeniy Dianov <dianov.js@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdianovx/mern-stack/issues"
+  },
+  "homepage": "https://github.com/xdianovx/mern-stack#readme"
+}
